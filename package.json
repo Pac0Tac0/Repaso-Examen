@@ -1,0 +1,29 @@
+{
+  "name": "tablero_francisco_j_razo_lara",
+  "version": "1.0.0",
+  "description": "Repaso del examen que no pasamos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pac0Tac0/Repaso-Examen.git"
+  },
+  "keywords": [
+    "whatever",
+    "stuff",
+    "more",
+    "sleep"
+  ],
+  "author": "FranciscoJRazoLara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pac0Tac0/Repaso-Examen/issues"
+  },
+  "homepage": "https://github.com/Pac0Tac0/Repaso-Examen#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "js": "^0.1.0"
+  }
+}
