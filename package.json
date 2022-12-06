@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Pac0Tac0/Repaso-Examen#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "js": "^0.1.0"
   }
 }
